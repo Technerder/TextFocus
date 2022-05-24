@@ -1,0 +1,17 @@
+<svg version="1.1" width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        text {
+            font: italic 100px sans-serif;
+            text-anchor: middle;
+            fill: white;
+        }
+        .green_text {
+            font-weight: bold;
+            fill: limegreen;
+        }
+    </style>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+        <tspan class="green_text">T</tspan>ext
+        <tspan class="green_text">F</tspan>ocus
+    </text>
+</svg>
